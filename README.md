@@ -1,6 +1,8 @@
 # Paolo Xavier Pelaez Villanueva
 
-### Del problema al producto: APIs sólidas y experiencias web que funcionan.
+**Disponible para prácticas preprofesionales en desarrollo de software con foco en backend Java.**
+
+[Portafolio](https://paolopelaezvillanueva.github.io/#proyectos) · [LinkedIn](https://www.linkedin.com/in/paolo-pelaez-villanueva/)
 
 Soy estudiante del VII ciclo de **Ingeniería de Sistemas e Informática** en la Universidad Tecnológica del Perú, reconocido en el **décimo superior**. Me especializo en desarrollo backend con **Java y Spring Boot** y construyo interfaces con **Angular y TypeScript**.
 
@@ -18,14 +20,14 @@ Como desarrollador voluntario full stack, construí una plataforma para gestiona
 - Un frontend en Angular 22 y Angular Material.
 - Pruebas con JUnit, Testcontainers y Vitest; integración continua con GitHub Actions y despliegue con Docker, Render y Vercel.
 
-> Este proyecto resume lo que me interesa: pensar en la experiencia de uso y cuidar al mismo tiempo la arquitectura, la seguridad y la calidad del código.
+[Explorar mi aporte y la demostración de arquitectura](https://paolopelaezvillanueva.github.io/#sistema-titulo).
 
 ## Otros proyectos
 
 | Proyecto | Aporte |
 | --- | --- |
-| [CRM de cobranzas](https://github.com/PaoloPelaezVillanueva/web) | API para clientes, cuentas, gestiones y reportes, con permisos por rol y un modo demo para probarla. |
-| [Tambo Backend](https://github.com/PaoloPelaezVillanueva/Herramientas-de-desarrolllo) | Proyecto en equipo: API de punto de venta para productos, inventario, clientes y ventas. |
+| [CRM de cobranzas](https://github.com/PaoloPelaezVillanueva/web) | API académica con demo local. [Preparación del backend para producción](https://github.com/PaoloPelaezVillanueva/web/pull/1) y [verificación con MySQL](https://github.com/PaoloPelaezVillanueva/web/actions/runs/45904303890). |
+| [Tambo Backend](https://github.com/PaoloPelaezVillanueva/Herramientas-de-desarrolllo) | API de punto de venta creada en equipo. Mi aporte fue el módulo de productos y DevOps. |
 | [Sistema de alquileres](https://github.com/PaoloPelaezVillanueva/falquiler-frontend) | Aplicación Angular con [backend en Spring Boot](https://github.com/PaoloPelaezVillanueva/falquiler-backend) y PostgreSQL. |
 | [Misión WIE Chincha](https://github.com/PaoloPelaezVillanueva/wie-chincha) | Juegos interactivos para acercar la programación a participantes de un taller. |
 
