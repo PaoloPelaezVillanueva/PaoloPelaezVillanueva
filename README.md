@@ -1,4 +1,4 @@
-# Paolo Xavier Peláez Villanueva
+# Paolo Xavier Pelaez Villanueva
 
 ### Del problema al producto: APIs sólidas y experiencias web que funcionan.
 
