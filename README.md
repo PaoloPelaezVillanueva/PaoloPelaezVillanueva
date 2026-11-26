@@ -10,15 +10,15 @@ Busco una oportunidad de prácticas en **desarrollo backend, full stack o análi
 
 ## Lo que mejor representa mi trabajo
 
-### [Plataforma web de IEEE Women in Engineering (WIE) UTP](https://ieee-wie-utp.vercel.app/)
+### Plataforma web de IEEE Women in Engineering (WIE) UTP
 
-Como desarrollador voluntario full stack, construí una plataforma para gestionar **proyectos, eventos y voluntariado**. Mi trabajo incluyó:
+Como desarrollador voluntario full stack, construí una plataforma para gestionar **proyectos, eventos y voluntariado**. La plataforma está en pruebas. Mi trabajo incluyó:
 
 - Una API REST con **Java 21 y Spring Boot 4**, con más de 30 endpoints.
 - Autenticación con OAuth2/JWT y acceso diferenciado para cuatro roles.
 - Una base de datos PostgreSQL de 11 tablas, con migraciones Flyway.
 - Un frontend en Angular 22 y Angular Material.
-- Pruebas con JUnit, Testcontainers y Vitest; integración continua con GitHub Actions y despliegue con Docker, Render y Vercel.
+- Pruebas con JUnit, Testcontainers y Vitest, integración continua con GitHub Actions y entorno de pruebas con Docker, Render y Vercel.
 
 [Explorar mi aporte y la demostración de arquitectura](https://paolopelaezvillanueva.github.io/#sistema-titulo).
 
