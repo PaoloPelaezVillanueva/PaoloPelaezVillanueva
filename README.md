@@ -1,6 +1,6 @@
 # Paolo Xavier Pelaez Villanueva
 
-**Practicante en Zealep Soluciones desde octubre de 2026 · Backend Java y Spring Boot.**
+**Colaborador y practicante en Zealep Soluciones desde marzo de 2026.**
 
 [Portafolio](https://paolopelaezvillanueva.github.io/#proyectos) · [LinkedIn](https://www.linkedin.com/in/paolo-pelaez-villanueva/)
 
@@ -37,9 +37,5 @@ Como desarrollador voluntario full stack, construí una plataforma para gestiona
 **Frontend:** Angular · TypeScript · HTML · CSS · Bootstrap  
 **Datos:** PostgreSQL · MySQL · SQL  
 **Calidad y entrega:** JUnit · Testcontainers · Vitest · GitHub Actions · Docker · Postman
-
-## También aporto fuera del editor
-
-Mi experiencia coordinando un local para el **Jurado Nacional de Elecciones** fortaleció mi capacidad para organizar equipos, atender incidencias y cumplir procedimientos bajo presión.
 
 **Lima, Perú** · [LinkedIn](https://www.linkedin.com/in/paolo-pelaez-villanueva/)
