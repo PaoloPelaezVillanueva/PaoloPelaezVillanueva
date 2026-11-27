@@ -1,12 +1,12 @@
 # Paolo Xavier Pelaez Villanueva
 
-**Disponible para prácticas preprofesionales en desarrollo de software con foco en backend Java.**
+**Practicante en Zealep Soluciones desde octubre de 2026 · Backend Java y Spring Boot.**
 
 [Portafolio](https://paolopelaezvillanueva.github.io/#proyectos) · [LinkedIn](https://www.linkedin.com/in/paolo-pelaez-villanueva/)
 
 Soy estudiante del VII ciclo de **Ingeniería de Sistemas e Informática** en la Universidad Tecnológica del Perú, reconocido en el **décimo superior**. Me especializo en desarrollo backend con **Java y Spring Boot** y construyo interfaces con **Angular y TypeScript**.
 
-Busco una oportunidad de prácticas en **desarrollo backend, full stack o análisis de sistemas**. Me gusta entender los requisitos, diseñar una solución y llevarla hasta una versión que otras personas puedan utilizar.
+Me interesan oportunidades preprofesionales de **desarrollo de software con foco en backend Java**. Podemos coordinar el horario y la fecha de inicio por LinkedIn.
 
 ## Lo que mejor representa mi trabajo
 
